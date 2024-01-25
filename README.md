@@ -2,14 +2,14 @@
 
 **` Software Developer | Data Engineer | Data Scientist )`**
 
-🔭 I’m currently actively looking for internships / full-time roles in Software Development/ Data Science domain
-🌱 I’m a graduate student at University of Washington, Seattle pursuing Information Management specializing in Data Science
-👯 I’m looking to collaborate on interesting Software Development / Data Science projects 
-🤔 I’m looking for help with building my data science portfolio 
-💬 Ask me about anything computer science & math :) 
-📫 How to reach me: madhuoke@uw.edu
-😄 Pronouns: She/Her
-⚡  Fun fact: I love trying out anything to do with art & experiment with cooking vegetarian dishes 
+🔭 I’m currently actively looking for internships / full-time roles in Software Development/ Data Science domain <br />
+🌱 I’m a graduate student at University of Washington, Seattle pursuing Information Management specializing in Data Science <br />
+👯 I’m looking to collaborate on interesting Software Development / Data Science projects <br />
+🤔 I’m looking for help with building my data science portfolio <br />
+💬 Ask me about anything computer science & math ! <br />
+📫 How to reach me: madhuoke@uw.edu  <br />
+😄 Pronouns: She/Her <br />
+⚡  Fun fact: I love trying out anything to do with art & experiment with cooking vegetarian dishes <br />
 
 ### 🧰 Programming Languages & Application Frameworks
 
@@ -31,6 +31,23 @@
 
 #
 
+<details>
+ <summary><h3>👨‍💻 Little bit about me</h3></summary>
+👋 Hi there! I'm Madhusmita, a highly motivated professional with a strong educational background and diverse work experience in the tech industry.
+
+🎓 I hold a Bachelor of Engineering degree in Computer Engineering and a Master's in Computer Science, which has provided me with a solid foundation in the world of technology.
+
+💼 I've had the privilege of contributing to the finance industry as part of the Credit Risk project at Accenture (UBS), where I honed my problem-solving skills and financial acumen.
+
+💻 Additionally, I spent 3 years as a Senior Software Engineer at Western Digital (SanDisk), where I collaborated on cutting-edge projects in Memory Product Solutions, further developing my technical expertise.
+
+🚀 My skill set includes full-stack development, with proficiency in Java and Python, as well as a strong grasp of DevOps practices. I'm passionate about building efficient, scalable software solutions that drive business success.
+
+📈 What truly excites me, though, is the world of Data Science. I'm eager to leverage my skills and experience to delve deeper into this dynamic field, exploring new horizons and making data-driven decisions.
+
+📬 Feel free to reach out to me at madhuoke@uw.edu if you're interested in connecting or discussing opportunities related to Software Development/ Data Science. Let's collaborate and innovate together!
+
+
 ### 📊 Stats
 
 ![Madhusmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhusmita0309&show_icons=true&theme=gruvbox)
@@ -39,19 +56,4 @@
 
 #
 
-details>
- <summary><h3>👨‍💻 Little bit about me</h3></summary>
-	👋 Hi there! I'm Madhusmita, a highly motivated professional with a strong educational background and diverse work experience in the tech industry.
-
-	🎓 I hold a Bachelor of Engineering degree in Computer Engineering and a Master's in Computer Science, which has provided me with a solid foundation in the world of technology.
-
-	💼 I've had the privilege of contributing to the finance industry as part of the Credit Risk project at Accenture (UBS), where I honed my problem-solving skills and financial acumen.
-
-	💻 Additionally, I spent 3 years as a Senior Software Engineer at Western Digital (SanDisk), where I collaborated on cutting-edge projects in Memory Product Solutions, further developing my technical expertise.
-
-	🚀 My skill set includes full-stack development, with proficiency in Java and Python, as well as a strong grasp of DevOps practices. I'm passionate about building efficient, scalable software solutions that drive business success.
-
-	📈 What truly excites me, though, is the world of Data Science. I'm eager to leverage my skills and experience to delve deeper into this dynamic field, exploring new horizons and making data-driven decisions.
-
-	📬 Feel free to reach out to me at madhuoke@uw.edu if you're interested in connecting or discussing opportunities related to Software Development/ Data Science. Let's collaborate and innovate together!
 
