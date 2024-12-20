@@ -1,11 +1,10 @@
 ### 😎 Madhusmita Oke
 
-**`Software Developer | Data Engineer | Data Scientist`**
+**`Software Developer | Data Engineer`**
 
 🔭 I’m currently actively looking for internships / full-time roles in Software Development/ Data Science domain <br />
-🌱 I’m a graduate student at University of Washington, Seattle pursuing Information Management specializing in Data Science <br />
+🌱 I graduated with Master's in Information Management focused in Data Science from the University of Washington, Seattle <br />
 👯 I’m looking to collaborate on interesting Software Development / Data Science projects <br />
-🤔 I’m looking for help with building my data science portfolio <br />
 💬 Ask me about anything computer science & math ! <br />
 📫 How to reach me: madhuoke@uw.edu  <br />
 😄 Pronouns: She/Her <br />
@@ -35,7 +34,7 @@
 
 <details>
  <summary><h3>👨‍💻 Little bit about me</h3></summary>
-👋 Hi there! I'm Madhusmita, a highly motivated professional with a strong educational background and diverse work experience in the tech industry.
+👋 Hi there! I'm Madhu, a highly motivated professional with a strong educational background and diverse work experience in the tech industry.
 
 🎓 I hold a Bachelor of Engineering degree in Computer Engineering and a Master's in Computer Science, which has provided me with a solid foundation in the world of technology.
 
