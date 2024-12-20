@@ -8,7 +8,7 @@
 💬 Ask me about anything computer science & math ! <br />
 📫 How to reach me: madhuoke@uw.edu  <br />
 😄 Pronouns: She/Her <br />
-⚡  Fun fact: I love trying out anything to do with art & experiment with cooking vegetarian dishes <br />
+⚡  Fun fact: I love anything to do with art/sketching & experiment with cooking vegetarian dishes <br />
 
 ### 🧰 Programming Languages & Application Frameworks
 
