@@ -3,7 +3,7 @@
 **`Software Developer | Data Engineer`**
 
 🔭 I’m currently actively looking for internships / full-time roles in Software Development/ Data Science domain <br />
-🌱 I graduated with Master's in Information Management focused in Data Science from the University of Washington, Seattle <br />
+🌱 I graduated with Master's in Information Management, Data Science from the University of Washington, Seattle <br />
 👯 I’m looking to collaborate on interesting Software Development / Data Science projects <br />
 💬 Ask me about anything computer science & math ! <br />
 📫 How to reach me: madhuoke@uw.edu  <br />
